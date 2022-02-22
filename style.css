@@ -1,0 +1,293 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.firstNavPart {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 40px;
+    margin-top: 20px;
+    gap: 0.5vw;
+}
+
+.book {
+    margin-left: 26px;
+}
+
+.leftArrow {
+    margin-left: 25.33px;
+}
+
+.rightArrow {
+    margin-left: 27.02px;
+}
+
+
+.secondNavPart {
+    display: flex;
+    justify-content: center;
+}
+
+.shields{
+    margin-top: -25px;
+    margin-left: 20px;
+}
+
+.searchBar {
+    margin-top: -25px;
+    margin-left: 15.5px;
+}
+
+.thirdNavPart {
+    display: flex;
+    justify-content: center;
+}
+
+.lock {
+    margin-left: 3.5vw;
+    margin-top: -2vw;
+}
+
+.domain {
+    margin-left: 0.4vw;
+    margin-top: -1.7vw;
+}
+
+
+.fourthNavPart {
+    display: flex;
+    justify-content: center;
+}
+
+.clockWise {
+    margin-left: 34vw;
+    margin-top: -27px;
+}
+
+.finalNavPart {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1.3vw;
+    margin-right: 2vw;
+    margin-top: -20px;
+}
+
+
+
+
+.products {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin-top: 68.49px;
+    margin-left: 57px;
+    width: 0%;
+    gap: 4vw;
+}
+
+
+
+.logo {
+    width: 98px;
+    height: 18px;
+
+}
+
+.tm {
+    width: 19px;
+    height: 15px;   
+    margin-left: 82px;
+    margin-top: -83px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #3A3A3A;
+}
+
+.linkShoes {
+    margin-top: 35px;
+    margin-left: 13px;
+}
+
+.linkBags {
+    margin-left: 13px;
+}
+
+
+.linkAccessories {
+    margin-left: 13px;
+}
+
+.rectangle {
+    width: 41px;
+    height: 24px;
+    margin-left: 118px;
+    margin-top: -75px;
+}
+
+.newWord {   
+    margin-left: 125px;
+    margin-top: -75px;
+    color: white;
+    font-size: 12px;
+}
+
+.linkSupport {
+    margin-left: 13px;
+}
+
+.options {
+    position: absolute;
+    margin-top: -26vw;
+    margin-left: 89vw;
+    display: flex;
+    gap: 1.5vw;
+    width: 1.9vw;
+    height: 1.9vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 323px;
+    margin-top: -200px;
+}
+
+.containerFirstP {
+Font-family: Sofia Pro;
+Font-style: Light;
+Font-size: 21px;
+Line-height: 100%;
+opacity: 0.5;
+}
+
+h1 {
+    font-size: 62px;
+    font-weight: 300;
+}
+
+.r {
+    width: 19px;
+    height: 32px;
+    margin-top: -5.5vw;
+    margin-left: 30vw;
+}
+
+.containerSecondP {
+    margin-top: 4vw;
+    font-size: 21px;
+    opacity: 40%;
+    Font-family: Sofia Pro;
+    Font-style: Light;
+    Line-height: 100%;
+    Line-height: 31.75px;
+}
+
+button {
+    width: 185px;
+    height: 57px;
+    margin-top: 49px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.cartImg {
+    margin-left: -100px;
+    margin-top: 5px;
+}
+
+.addCart {
+    margin-left: 2.5vw;
+    margin-top: -20px;
+}
+
+.btnWatch {
+    width: 185px;
+    height: 57px;
+    margin-top: -57px;
+    margin-left: 15vw;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 1px solid black;
+}
+
+.playImg {
+    margin-left: -100px;
+    margin-top: 3px;
+}
+
+.watchIntro {
+    margin-top: -22px;
+    margin-left: 20px;
+}
+
+.container1{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: 14vw;
+    margin-right: 0vw;
+}
+
+.container2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
+.ninetyfour{
+    width: 501px;
+    height: 587px;
+    margin-top: -26vw;
+    margin-left: -5vw;
+    position: absolute;
+    z-index: -2;
+}
+
+.shoes {
+    width: 1003px;
+    height: 850px;
+    margin-top: -45vw;
+    border: none;
+}
+
+.campain {
+    display: flex;
+    margin-top: -20vw;
+    margin-left: 5vw;
+}
+
+
+.line {
+    margin-top: 5vw;
+    margin-left: 6vw;
+}
+
+.learnmore {
+    margin-left: 60px;
+    margin-top: 1px;
+}
+
+.scrolldown{
+    display: flex;
+    margin-top: 7vw;
+    margin-left: 5vw;
+}
+
+.pageOne {
+    margin-left: 65vw;
+    margin-top: -8vw;
+    margin-bottom: 8vw;
+}
