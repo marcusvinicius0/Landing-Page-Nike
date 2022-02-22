@@ -208,7 +208,7 @@ button {
 
 .addCart {
     margin-left: 2.5vw;
-    margin-top: -20px;
+    margin-top: -20px;  
 }
 
 .btnWatch {
@@ -233,34 +233,36 @@ button {
     margin-left: 20px;
 }
 
-.container1{
+/* .container1{
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
     margin-top: 14vw;
     margin-right: 0vw;
-}
+} */
 
 .container2 {
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
-
-}
-.ninetyfour{
-    width: 501px;
-    height: 587px;
-    margin-top: -26vw;
-    margin-left: -5vw;
-    position: absolute;
-    z-index: -2;
+    flex-direction: column;
 }
 
 .shoes {
     width: 1003px;
     height: 850px;
-    margin-top: -45vw;
+    margin-top: -35vw;
     border: none;
+    z-index: -2;
+    position: relative;
+}
+
+.ninetyfour{
+    width: 501px;
+    height: 587px;
+    margin-top: -40vw;
+    margin-right: 2.5vw;
+    z-index: -2;
 }
 
 .campain {
